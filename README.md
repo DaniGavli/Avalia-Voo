@@ -1,1 +1,1 @@
-Projeto seguindo um tutorial em Ruby.
+Projeto seguindo um tutorial em Ruby(em andamento).
